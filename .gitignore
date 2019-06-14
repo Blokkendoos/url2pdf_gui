@@ -1,0 +1,13 @@
+*.pyc
+
+# ignore Mac OS files
+.DS_Store
+
+# ignore PyCharm project files
+.idea/
+venv/
+
+# ignore py2app dirs
+setup.py
+build/
+dist/
